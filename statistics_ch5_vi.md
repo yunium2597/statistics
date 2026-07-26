@@ -604,7 +604,7 @@ BÀI TẬP ÔN TẬP
 12. Năm 2005, điểm trung bình trong bài thi SAT Toán là khoảng 520. Tuy nhiên, trong số các học sinh tham gia một bài thi môn chuyên ngành (subject-matter test), điểm trung bình của SAT Toán lại lên tới khoảng 624.<sup>6</sup> Điều gì giải thích cho sự khác biệt này?
 
 
-8. TÓM TẮT
+### 8. TÓM TẮT
 
 1. _Đường cong phân phối chuẩn_ (normal curve) có tính đối xứng qua giá trị 0, và tổng diện tích dưới đường cong là 100%.
 
